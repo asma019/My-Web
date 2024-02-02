@@ -1,6 +1,6 @@
 ---
 banner_alt: A photo of 3 cupcakes, each with a number on it to spell out 2021
-banner: https://i0.wp.com/asiaeduweb.com/wp-content/uploads/2023/09/What-is-Diode.webp?resize=173%2C80&ssl=1
+banner: https://asiaeduweb.com/wp-content/uploads/2023/09/What-is-Diode.webp
 title: 2024 in review
 description: It's been a long year & a lot has happened so I wanted to recap it all
 date: '2024-02-02'
