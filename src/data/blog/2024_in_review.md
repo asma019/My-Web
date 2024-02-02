@@ -1,6 +1,6 @@
 ---
 banner_alt: A photo of 3 cupcakes, each with a number on it to spell out 2021
-banner: https://mehedibs.imgix.net/bd.png
+banner: https://images.unsplash.com/photo-1706867817626-aa9cccd189ba?q=80&w=1738&auto=format
 title: 2024 in review
 description: It's been a long year & a lot has happened so I wanted to recap it all
 date: '2024-02-02'
